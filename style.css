@@ -1,0 +1,21 @@
+html,
+body {
+    font-family: 'Allan', cursive;
+    font-weight: 600;
+    letter-spacing: 2px;
+    background: url("./pictures/background/20190713155931.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #f0deba;
+    color: #f0deba;
+}
+
+.bg-card {
+    background-color: rgba(30, 20, 10, .8);
+}
+
+.md-p {
+    font-size: larger;
+}
